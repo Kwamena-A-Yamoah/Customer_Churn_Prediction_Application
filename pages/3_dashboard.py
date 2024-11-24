@@ -1,13 +1,18 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go 
+import plotly.graph_objects as go
+import os
+
+
 
 # Caching the data loading process
 @st.cache_data(persist=True)
 def load_data(filepath):
-    df1= pd.read_csv(filepath)
-     # Preprocess the data
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(current_directory, 'data', 'cleaned_data.csv')
+    df1 = pd.read_csv(filepath)
+     # Preprocess the datload da
     df2 = df1.drop(['customerID'], axis=1, errors='ignore')  # drop irrelevant columns
     return df2
 
@@ -92,7 +97,7 @@ def show_select_scatterplot(data):
 def show_dashboard():
     
     # Load the dataset using the cached function
-    data = load_data(r'data\cleaned_data.csv')
+    data = load_data(r'data/cleaned_data.csv')
     
     # Display the dataset
     st.title('Telecom Customer Churn EDA')

@@ -43,3 +43,8 @@ This **Customer Churn Prediction Application** is built using **Streamlit** to p
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+2. Launch the app:
+   ```bash
+   streamlit run 1_home.py
+
+   

@@ -1,0 +1,119 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Prediction time,Model used
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-25,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-25,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-26,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,30.5,2024-08-26,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-26,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-27,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-27,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-27,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-27,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-27,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-27,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-28,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,No,Yes,0,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,30,50.65,2024-08-29,Linear Regression
+Male,Yes,No,Yes,0,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,30,50.65,2024-08-29,Linear Regression
+Male,Yes,No,Yes,62,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,103,50.65,2024-08-29,Linear Regression
+Male,Yes,No,Yes,14,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,103,50.65,2024-08-29,Linear Regression
+Male,Yes,No,Yes,3,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,103,50.65,2024-08-29,Linear Regression
+Male,Yes,No,Yes,3,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,103,50.65,2024-08-29,Linear Regression
+Male,Yes,No,Yes,3,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,103,50.65,2024-08-29,Linear Regression
+Male,Yes,No,Yes,57,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,103,50.65,2024-08-29,Linear Regression
+Male,Yes,No,Yes,36,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,103,50.65,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,36,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,103,50.65,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,63,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,103,50.65,2024-08-29,Linear Regression
+Female,Yes,Yes,No,49,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,28,150.0,2024-08-29,Linear Regression
+Female,Yes,Yes,No,49,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,28,150.0,2024-08-29,Linear Regression
+Female,Yes,Yes,No,49,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,28,150.0,2024-08-29,Linear Regression
+Female,Yes,Yes,No,60,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,28,150.0,2024-08-29,Linear Regression
+Female,Yes,Yes,No,60,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,28,30.0,2024-08-29,Linear Regression
+Female,Yes,Yes,No,60,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,28,30.0,2024-08-29,Linear Regression
+Female,Yes,Yes,No,60,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,28,30.0,2024-08-29,Linear Regression
+Female,Yes,Yes,No,60,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,28,30.0,2024-08-29,Linear Regression
+Female,Yes,Yes,No,60,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,28,30.0,2024-08-29,Linear Regression
+Female,Yes,Yes,No,60,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,28,30.0,2024-08-29,Linear Regression
+Female,Yes,Yes,No,17,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,36,30.0,2024-08-29,Linear Regression
+Female,Yes,Yes,No,17,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,36,30.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,11,360.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,12,No,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,12,No,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,47,No,No,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,10,260.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,47,No,No,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,10,260.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,29,No,No,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,10,260.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,14,0.10999999999999999,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,67,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,14,0.10999999999999999,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,67,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,10,120.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,24,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,10,120.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,24,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,10,120.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,24,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,10,120.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,24,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,10,120.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,24,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,10,120.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,24,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,10,120.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,49,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,10,120.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,49,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,120.0,2024-08-29,Linear Regression
+Female,Yes,Yes,Yes,49,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,120.0,2024-08-29,Linear Regression
+Female,Yes,Yes,Yes,49,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,120.0,2024-08-29,SVC
+Female,Yes,Yes,Yes,49,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,120.0,2024-08-29,Linear Regression
+Female,Yes,Yes,Yes,49,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,120.0,2024-08-29,Linear Regression
+Female,Yes,Yes,Yes,49,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,120.0,2024-08-29,Linear Regression
+Female,Yes,Yes,Yes,49,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,120.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,28,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,10,20.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,28,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,10,20.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,54,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,20,30.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,80.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,80.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,80.0,2024-08-29,Linear Regression
+Male,Yes,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,80.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,80.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,80.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,80.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,80.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,30,80.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,59,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,40,120.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,3,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,40,120.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,2,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,40,10.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,2,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,40,10.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,2,No,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,40,0.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,2,No,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,40,0.0,2024-09-01,Linear Regression
+Male,No,No,No,0,No,No,No,No,No,No,No,No,No,Month-to-month,No,Electronic check,0,0.0,2024-09-01,Linear Regression
+Male,No,No,No,0,No,No,No,No,No,No,No,No,No,Month-to-month,No,Electronic check,0,0.0,2024-09-01,Linear Regression
+Male,No,No,No,0,No,No,No,No,No,No,No,No,No,Month-to-month,No,Electronic check,0,0.0,2024-09-01,Linear Regression
+Male,No,No,No,0,No,No,No,No,No,No,No,No,No,Month-to-month,No,Electronic check,0,0.0,2024-09-01,SVC
+Female,Yes,Yes,Yes,52,No,No,No,No,No,No,No,No,No,Month-to-month,No,Electronic check,0,0.0,2024-09-01,SVC
+Female,Yes,Yes,Yes,52,No,No,No,No,No,No,No,No,No,Month-to-month,No,Electronic check,0,150.0,2024-09-01,SVC
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-09-01,Linear Regression
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0,0.0,2024-09-04,Linear Regression
+Male,Yes,Yes,Yes,47,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,20,120.0,2024-09-10,Linear Regression
